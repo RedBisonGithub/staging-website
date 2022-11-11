@@ -1,2 +1,2 @@
-# Red Bison Staging Website
-This is the staging website for Red Bison 🐂
+# Red Bison Main Website
+This is the main site for Red Bison 🐂
