@@ -25143,7 +25143,7 @@ li a {
 }
 
 .multifamily-banner-text h1 {
-    font-size: clamp(30px, 3vw, 5rem);
+    font-size: clamp(30px, 3vw, 7rem);
     line-height: 50px;
 }
 
