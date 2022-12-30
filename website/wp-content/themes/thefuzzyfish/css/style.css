@@ -26529,6 +26529,7 @@ textarea {
 /* --------------------------- */
 
 .resources-section-container {
+    margin-top: -30px;
     padding-bottom: 0px !important;
 }
 
